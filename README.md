@@ -19,3 +19,7 @@ entered.\
 <br>
 **Generate Report:** This selection allows the administrator to generate a comprehensive report of the daily calls.\
 The program will pull from the database every three interactions.
+
+### UML Diagram
+![Uml Diagram](ENSF_409_UML.drawio.svg)
+This program applies common design patterns, including a singleton, strategies, observers, and model-viewer-controller.
